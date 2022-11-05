@@ -11,7 +11,7 @@ const Header = () => {
        
         <div className='logo-menu'>
             <button><BiMenu size={'2.3rem'}/></button>
-            <h1>swyftnet</h1>
+            <h1>swyftn<span>e</span>t</h1>
         
 
         </div>
