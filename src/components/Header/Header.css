@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+.logo-menu{
+    display: flex;
+    align-items: center;
+}
+
+.logo-menu button{
+    margin: 0 1rem;
+    border-style: none;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color:#bbbc;
+}
+
+.menu-links{
+   
+    width: 50%;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+.menu-links a{
+    text-decoration: none;
+    color: #bbbcbc;
+}
+
+.menu-links a:hover{
+    color: blue
+}
+
+h1{
+    color: #bbbcbc;
+    
+}
